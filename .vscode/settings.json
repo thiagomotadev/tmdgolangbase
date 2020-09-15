@@ -4,7 +4,8 @@
         "dbname",
         "gorm",
         "postgres",
-        "tmdgolangbase"
+        "tmdgolangbase",
+        "uuid"
     ],
     "[go]": {
         "editor.formatOnSave": true,
