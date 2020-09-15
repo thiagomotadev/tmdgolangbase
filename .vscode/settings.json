@@ -1,0 +1,25 @@
+{
+    "cSpell.enabled": true,
+    "cSpell.words": [
+        "dbname",
+        "gorm",
+        "postgres",
+        "tmdgolangbase"
+    ],
+    "[go]": {
+        "editor.formatOnSave": true,
+        "editor.codeActionsOnSave": {
+            "source.organizeImports": true,
+        },
+        "editor.snippetSuggestions": "none",
+    },
+    "go.autocompleteUnimportedPackages": true,
+    "go.buildOnSave": "package",
+    "go.formatTool": "goimports",
+    "go.installDependenciesWhenBuilding": true,
+    "go.useLanguageServer": false,
+    "go.lintOnSave": "package",
+    "go.lintTool": "golint",
+    "go.useCodeSnippetsOnFunctionSuggest": true,
+    "go.vetOnSave": "package",
+}
